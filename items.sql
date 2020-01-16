@@ -11,4 +11,4 @@ INSERT INTO items VALUES (8, "Tanzanite");
 INSERT INTO items VALUES (9, "Diamond");
 INSERT INTO items VALUES (10, "Rubious Gem");
 INSERT INTO items VALUES (11, "Golden Ore");
-
+INSERT INTO items VALUES (12, "Amethyst");
